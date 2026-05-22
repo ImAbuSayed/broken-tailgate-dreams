@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Broken Tailgate Dreams
+
+This log tracks the cryptographic history and versioning for the song **Broken Tailgate Dreams** (broken-tailgate-dreams).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-23T05:57:41.322722 | `v1` | `2e0a3a99ac5a2ef598adba469e0ea9275b9aec3af811f9e4666db6f66eb73187` | `9c2d9d82d09f973a8847a9c638b9d71e64ac59c4f381a180c8934f8bf00b61c5` | `2026-05-23_broken-tailgate-dreams-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

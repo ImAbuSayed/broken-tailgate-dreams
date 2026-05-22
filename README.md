@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/broken-tailgate-dreams/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Broken Tailgate Dreams](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/broken-tailgate-dreams/) |
+| **Get License** | [Official Music Licensing for Broken Tailgate Dreams](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/broken-tailgate-dreams/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2e0a3a99ac5a2ef598adba469e0ea9275b9aec3af811f9e4666db6f66eb73187` |
 | **Timestamp** | May 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
